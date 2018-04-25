@@ -1,0 +1,20 @@
+## 前端学习笔记
+> 毕业后工作多年，但是总感觉自己的知识系统不完备。总结是一个很好的学习过程,于是打算总结以下内容的学习过程，
+
+* jQuery
+* canvas
+* git
+* React
+    * react-router
+    * react-x
+* Vue
+    * vue-router
+    * vuex
+    * nuxt
+* AngularJs
+    * ui-router
+    * angular-bootstrap
+* gulp
+* webpack
+* webpack+gulp
+* 其他工具
